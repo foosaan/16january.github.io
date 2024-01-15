@@ -470,7 +470,8 @@ footer li {
   }
 
   .simply-countdown > .simply-section {
-    padding: 38px;
+    padding: 35px;
+    position: center;
     margin: 3px;
   }
 
